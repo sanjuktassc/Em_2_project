@@ -1,0 +1,6 @@
+---
+applications:
+- name: ENotes_Project
+  memory: 256M
+  host: Enotes-Project
+  domain: eu-gb.mybluemix.net
